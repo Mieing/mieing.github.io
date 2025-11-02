@@ -5,8 +5,8 @@
     "banners": [
       {
         "url": "https://mieing.github.io/Home/Banner.jpg",
-        "title": "MDeb",
-        "package": "mdeb",
+        "title": "",
+        "package": "",
         "hideShadow": false
       }
     ]
