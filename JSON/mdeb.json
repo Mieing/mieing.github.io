@@ -1,6 +1,5 @@
 {
     "class": "DepictionTabView",
-    "tintColor": "#800080",
     "minVersion": "0.3",
     "tabs": [
       {
@@ -9,7 +8,7 @@
         "views": [
           {
             "class": "DepictionButtonView",
-            "title": "Telegram",
+            "text": "Telegram",
             "action": "https://t.me/miemeiiiii"
           },
           {
