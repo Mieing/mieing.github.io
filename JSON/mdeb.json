@@ -10,8 +10,11 @@
           {
             "class": "DepictionButtonView",
             "title": "Telegram",
-            "url": "https://t.me/miemeiiiii",
-            "style": "normal"
+            "action": "https://t.me/miemeiiiii"
+          },
+          {
+            "class": "DepictionSpacerView",
+            "spacing": 1
           },
           {
             "class": "DepictionMarkdownView",
