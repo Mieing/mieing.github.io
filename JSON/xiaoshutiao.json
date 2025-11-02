@@ -18,7 +18,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "",
+            "markdown": "小薯条",
             "useRawFormat": true
           },
           {
@@ -28,7 +28,7 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://mieing.github.io/icon/mdeb.png"
+                "url": "https://mieing.github.io/icon/xiaoshutiao.jpg"
               }
             ]
           }
