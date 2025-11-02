@@ -18,7 +18,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "Quickly extract dylib files in batches",
+            "markdown": "",
             "useRawFormat": true
           },
           {
