@@ -5,6 +5,8 @@
     "banners": [
       {
         "url": "https://mieing.github.io/Home/Banner.jpg",
+        "title": "",
+        "package": "",
         "hideShadow": false
       }
     ]
