@@ -6,7 +6,7 @@
       {
         "url": "https://mieing.github.io/Home/banner.png",
         "title": "MDeb",
-        "package": "com.mieing.mdeb",
+        "package": "mdeb",
         "hideShadow": false
       }
     ]
