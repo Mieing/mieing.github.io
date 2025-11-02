@@ -1,0 +1,7 @@
+Origin: Mieing
+Label: Mieing
+Description: Mieing's repo
+Suite: stable
+Version: 1.0.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main

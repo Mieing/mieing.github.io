@@ -1,0 +1,48 @@
+Package: mdeb
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: mie
+Installed-Size: 88
+Depends: bash
+Filename: ./debs/rootfull/mdeb_1.0.0-1_iphoneos-arm.deb
+Size: 6176
+MD5sum: fc5d09001eb2f1555f39ac94c4432321
+SHA1: 060ed5f754cda087099246d98efa78a89eaa13e3
+SHA256: 7b0a83e778f60f376c034f9dcdf8d2a086f167f05678592460fdabd2c178ad50
+Section: Terminal_Support
+Priority: optional
+Description: Quickly extract dylib files in batches
+Sileodepiction: https://mieing.github.io/JSON/mdeb.json
+
+Package: mdeb
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: mie
+Installed-Size: 88
+Depends: bash
+Filename: ./debs/rootless/mdeb_1.0.0-2_iphoneos-arm64.deb
+Size: 6138
+MD5sum: a36740ff30d8efb709bb485e82bc81cb
+SHA1: fdee78762fe80913a1282350a371cfab6ea1d8d2
+SHA256: c452f27709f0c0cc7199aa3df4e86c79f55fe2cbcdf9f897d72a41dd20b90197
+Section: Terminal_Support
+Priority: optional
+Description: Quickly extract dylib files in batches
+Sileodepiction: https://mieing.github.io/JSON/mdeb.json
+
+Package: mdeb
+Version: 1.0.0-3
+Architecture: iphoneos-arm64e
+Maintainer: mie
+Installed-Size: 84
+Depends: bash
+Filename: ./debs/roothide/mdeb_1.0.0-3_iphoneos-arm64e.deb
+Size: 5312
+MD5sum: 881ce116f37ac7cfa16b8b7295e541cc
+SHA1: 240737a2713cdde1cb397baabdf933cf1adcf604
+SHA256: 940e160c7c26005229e79d9dfd81b773e87a5d0ea785109a55fb5196c6638725
+Section: RootHide
+Priority: optional
+Description: Quickly extract dylib files in batches
+Sileodepiction: https://mieing.github.io/JSON/mdeb.json
+
