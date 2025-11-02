@@ -4,7 +4,7 @@
     "itemCornerRadius": 10,
     "banners": [
      {
-      "url": "Home/Banner.jpg",
+      "url": "https://mieing.github.io/Home/banner.png",
       "title": "",
       "hideShadow": false
      }
