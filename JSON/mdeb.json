@@ -1,5 +1,6 @@
 {
     "class": "DepictionTabView",
+    "headerImage": "https://mieing.github.io/Home/Banner.jpg",
     "minVersion": "0.3",
     "tabs": [
       {
