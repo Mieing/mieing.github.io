@@ -1,39 +1,39 @@
 {
-    "class": "DepictionTabView",
-    "headerImage": "https://mieing.github.io/Home/Banner.jpg",
-    "minVersion": "0.3",
-    "tabs": [
-      {
-        "class": "DepictionStackView",
-        "tabname": "描述",
-        "views": [
-          {
-            "class": "DepictionButtonView",
-            "text": "详细",
-            "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp"
-          },
-          {
-            "class": "DepictionHeaderView",
-            "markdown": "描述",
-            "useBoldText": true,
-            "alignment": "left"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "An iOS app decrypter, full static using fouldecrypt."
-          },        
-          {
-            "class": "DepictionScreenshotsView",
-            "itemCornerRadius": 6,
-            "itemSize": "{160, 346.4533333333333}",
-            "screenshots": [
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://mieing.github.io/icon/iridium.jpg"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "class": "DepictionTabView",
+  "headerImage": "https://mieing.github.io/Home/Banner.jpg",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "详细",
+          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "markdown": "描述",
+          "useBoldText": true,
+          "alignment": "left"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "An iOS app decrypter, full static using fouldecrypt."
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": [160, 346.4533333333333],
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://mieing.github.io/icon/iridium.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
