@@ -18,7 +18,7 @@
             "useRawFormat": false,
             "useMargins": false,
             "useSpacing": false
-          },   
+          },
           {
             "class": "DepictionScreenshotsView",
             "itemCornerRadius": 6,

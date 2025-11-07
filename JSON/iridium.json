@@ -13,11 +13,14 @@
             "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp"
           },
           {
+            "class": "DepictionHeaderView",
+            "markdown": "描述",
+            "useBoldText": true,
+            "alignment": "left"
+          },
+          {
             "class": "DepictionMarkdownView",
-            "markdown": "",
-            "useRawFormat": false,
-            "useMargins": false,
-            "useSpacing": false
+            "markdown": "An iOS app decrypter, full static using fouldecrypt."
           },        
           {
             "class": "DepictionScreenshotsView",
