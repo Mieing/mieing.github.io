@@ -14,8 +14,8 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "小薯条",
-            "useRawFormat": true
+            "markdown": "",
+            "useRawFormat": false
           },
           {
             "class": "DepictionScreenshotsView",
