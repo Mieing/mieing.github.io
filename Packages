@@ -51,6 +51,25 @@ Icon: https://mieing.github.io/icon/iridiumicon.png
 Name: iridium
 Sileodepiction: https://mieing.github.io/JSON/iridium.json
 
+Package: com.fries.test
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Pre-Depends: firmware (>= 13.5)
+Filename: ./debs/rootless/com.fries.test_1.0.0_iphoneos-arm64.deb
+Size: 856
+MD5sum: 3d9b029a5ebcbda9341800aa883a59cf
+SHA1: 61cf08aae11708cdc84a6531eae972580881fa2a
+SHA256: 650793e9d3ea1bd3e0439fa7e911879586f73e2164727504406c962c3e8362f2
+Section: Tweaks
+Description: Test
+Tag: purpose::uikit
+Author: fries
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Icon: https://mieing.github.io/icon/Test.png
+Name: Test
+Sileodepiction: https://mieing.github.io/JSON/Test.json
+
 Package: com.fries.xiaoshutiao
 Version: 1.3-3-2
 Architecture: iphoneos-arm64
