@@ -30,7 +30,7 @@
           "xPadding": 10
         },
         {
-          "class": "DepictionImageView",
+          "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
