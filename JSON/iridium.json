@@ -26,7 +26,8 @@
           "width": 300,
           "height": 200,
           "cornerRadius": 10,
-          "alignment": "center"
+          "alignment": "center",
+          "xPadding": 10
         },
         {
           "class": "DepictionImageView",
