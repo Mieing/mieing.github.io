@@ -13,10 +13,6 @@
             "action": "https://t.me/miemeiiiii"
           },
           {
-            "class": "DepictionSpacerView",
-            "spacing": 1
-          },
-          {
             "class": "DepictionMarkdownView",
             "markdown": "",
             "useRawFormat": true

@@ -13,10 +13,6 @@
             "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp"
           },
           {
-            "class": "DepictionSpacerView",
-            "spacing": 1
-          },
-          {
             "class": "DepictionMarkdownView",
             "markdown": "",
             "useRawFormat": true
