@@ -1,0 +1,40 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://mieing.github.io/Home/Banner.jpg",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Tigi Software",
+          "action": "https://www.tigisoftware.com/default/"
+        },
+        {
+          "title": "描述",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices"
+        },
+        {
+          "class":"DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://mieing.github.io/icon/FilzaFileManager64-bit.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
