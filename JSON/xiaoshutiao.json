@@ -15,7 +15,9 @@
           {
             "class": "DepictionMarkdownView",
             "markdown": "",
-            "useRawFormat": false
+            "useRawFormat": false,
+            "useMargins": false,
+            "useSpacing": false
           },
           {
             "class": "DepictionScreenshotsView",
