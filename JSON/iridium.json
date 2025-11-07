@@ -13,10 +13,8 @@
           "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp"
         },
         {
-          "class": "DepictionHeaderView",
-          "markdown": "描述",
-          "useBoldText": true,
-          "alignment": "left"
+          "title": "描述",
+          "class": "DepictionHeaderView"
         },
         {
           "class": "DepictionMarkdownView",
