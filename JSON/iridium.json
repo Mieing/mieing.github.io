@@ -21,7 +21,15 @@
           "markdown": "An iOS app decrypter, full static using fouldecrypt."
         },
         {
-          "class": "DepictionScreenshotsView",
+          "class": "DepictionImageView",
+          "URL": "https://mieing.github.io/icon/iridium.jpg",
+          "width": 300,
+          "height": 200,
+          "cornerRadius": 10,
+          "alignment": "center"
+        },
+        {
+          "class": "DepictionImageView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
