@@ -85,6 +85,25 @@ Description: MDeb
 Icon: https://mieing.github.io/icon/CydiaIcon.png
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
+Package: wiki.qaq.iridium
+Version: 1.2.15-REL-1642832736
+Architecture: iphoneos-arm64
+Maintainer: Lakr Aream <launchctl@outlook.com>
+Pre-Depends: firmware (>= 13.5)
+Filename: ./debs/rootless/wiki.qaq.iridium_1.2.15-REL-1642832736_iphoneos-arm64.deb
+Size: 5426756
+MD5sum: 70dd85f5003d41aa0b518dce4997f6b7
+SHA1: 9654255563fe4cb49b57849c3eaf02269b96545b
+SHA256: 4f9e415ddda094ee1e585f27ca43c181af8ba7e35374b5e0ce8539cd1e77b5a2
+Section: Applications
+Description: An iOS application decrypter built ready for use.
+Tag: purpose::uikit
+Author: Lakr Aream <launchctl@outlook.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Icon: https://mieing.github.io/icon/iridiumicon.png
+Name: iridium
+Sileodepiction: https://mieing.github.io/JSON/iridium.json
+
 Package: mdeb
 Version: 1.0.0
 Architecture: iphoneos-arm64e
