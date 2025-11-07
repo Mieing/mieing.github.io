@@ -9,16 +9,19 @@
       "views": [
         {
           "class": "DepictionButtonView",
-          "text": "详细",
-          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp"
+          "text": "TEST",
+          "action": "https://t.me/miemeiiiii"
         },
         {
-          "title": "描述",
+          "title": "BIAOTI",
           "class": "DepictionHeaderView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "An iOS app decrypter, full static using fouldecrypt."
+          "markdown": "TEST"
+        },
+        {
+          "class":"DepictionSeparatorView"
         },
         {
           "class": "DepictionScreenshotsView",
