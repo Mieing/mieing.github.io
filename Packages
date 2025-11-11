@@ -149,16 +149,17 @@ Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 Package: mdeb
 Version: 1.0.0
 Architecture: iphoneos-arm64e
-Installed-Size: 84
+Installed-Size: 100
 Depends: bash
 Filename: ./debs/roothide/mdeb_1.0.0_iphoneos-arm64e.deb
-Size: 5098
-MD5sum: 1bd37d59d4b75ce171cefe4a8503955b
-SHA1: c33f4abf3e2b335f659145899c6d938f4f3d299b
-SHA256: aac62abdbb12d1977cd65feb561bd5db70fd79d4b1608dc9919bc694365541ec
+Size: 5096
+MD5sum: 1630757644762282bca5a782c6a8ec34
+SHA1: d07feecd6965c82f312cffcbd17a090330c04956
+SHA256: 8d4237ff24db0b852b92a1d922c9c16608338b36ccbea7060b978f93af5b4102
 Section: RootHide
 Priority: optional
 Description: MDeb
 Icon: https://mieing.github.io/icon/CydiaIcon.png
+Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
