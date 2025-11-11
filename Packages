@@ -35,6 +35,28 @@ Icon: https://mieing.github.io/icon/FilzaFileManager64-bit.png
 Name: Filza File Manager 64-bit
 Sileodepiction: https://mieing.github.io/JSON/FilzaFileManager64-bit.json
 
+Package: libzstd1
+Version: 1.4.8-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1808
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/rootfull/libzstd1_1.4.8-1_iphoneos-arm.deb
+Size: 254552
+MD5sum: c3de47470fe85d56b687f1875a15be52
+SHA1: 16afe6e73f19b8feccb13b3f190040f56017ea2d
+SHA256: 8275edf35d86ff90a9d180051a4a930538802adc6348e5657c8af749fffe9d1e
+Section: Development
+Priority: optional
+Description: fast lossless compression algorithm
+ Zstd, short for Zstandard, is a fast lossless compression algorithm,
+ targeting real-time compression scenarios at zlib-level compression
+ ratio.
+ .
+ This package contains the shared library.
+Icon: https://mieing.github.io/icon/CydiaIcon.png
+Sileodepiction: https://mieing.github.io/JSON/libzstd1.json
+
 Package: mdeb
 Version: 1.0.0
 Architecture: iphoneos-arm
