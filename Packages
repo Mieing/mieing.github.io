@@ -77,6 +77,23 @@ Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
+Package: picsartcrack
+Version: 1.0.0-1
+Maintainer: fries
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/picsartcrack_1.0.0-1_.deb
+Size: 36434
+MD5sum: 4efa9bb614f0d22a32d96f620e395dae
+SHA1: dd59503cd7f7fb82e71f5ce6f174dbd98168d16b
+SHA256: 9bc12469168f09f571560438aff5e12318db49a7f8d0e90c4816b3b48aff47a8
+Section: Tweaks
+Description: PicsArtCrack 28.8.2
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/PicsArt.png
+Name: PicsArtCrack
+Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
+
 Package: wiki.qaq.iridium
 Version: 1.2.15-REL-1642832736
 Architecture: iphoneos-arm
@@ -152,6 +169,24 @@ Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
+Package: picsartcrack
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/picsartcrack_1.0.0-2_iphoneos-arm64.deb
+Size: 37092
+MD5sum: 849765543713a4a8feb05415c6c557d5
+SHA1: 22884be4a55d564f5710f32e805b27b3f6e6f8d2
+SHA256: 498b5af9f982d1f82ab720036eff5a6ecc78a7c6c78f84c0a22735259af7f875
+Section: Tweaks
+Description: PicsArtCrack 28.8.2
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/PicsArt.png
+Name: PicsArtCrack
+Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
+
 Package: mdeb
 Version: 2.0.1
 Architecture: iphoneos-arm64e
@@ -170,4 +205,22 @@ Author: fries
 Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
+
+Package: picsartcrack
+Version: 1.0.0-3
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/picsartcrack_1.0.0-3_iphoneos-arm64e.deb
+Size: 34886
+MD5sum: 302d1dd53cf80345d3f2f24d9c6446c1
+SHA1: 234fb0880bae3bbaf59bfe4ee8788b7e508a9ca3
+SHA256: 3b8509868bdf46c74053a64fb082f80f42b16a2d8f90251d8a3fd39b4b71e6b6
+Section: RootHide
+Description: PicsArtCrack 28.8.2
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/PicsArt.png
+Name: PicsArtCrack
+Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
 
