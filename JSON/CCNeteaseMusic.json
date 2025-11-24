@@ -1,0 +1,36 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://mieing.github.io/Home/Banner.jpg",
+    "minVersion": "0.3",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "描述",
+        "views": [
+          {
+            "class": "DepictionButtonView",
+            "text": "Telegram",
+            "action": "https://t.me/miemeiiiii"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "",
+            "useRawFormat": false,
+            "useMargins": false,
+            "useSpacing": false
+          },
+          {
+            "class": "DepictionScreenshotsView",
+            "itemCornerRadius": 6,
+            "itemSize": "{160, 346.4533333333333}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://mieing.github.io/icon/CCNeteaseMusic.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

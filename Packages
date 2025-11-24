@@ -1,3 +1,21 @@
+Package: ccneteasemusic
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 140
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/rootfull/ccneteasemusic_1.0.1-1_iphoneos-arm.deb
+Size: 15144
+MD5sum: e964c38407bd178dc22e7b619e1231bd
+SHA1: 49bcfb8aaed9938bb846a478ee6b8e2ba1ad6c55
+SHA256: 9a511649fe90a9ec4ae1b1cf8b36f1fbd0541a5bb7d3628a14d45c619c831f10
+Section: Tweaks
+Description: CCNeteaseMusic
+Author: fries
+Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
+Name: CCNeteaseMusic
+Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
+
 Package: com.fries.xiaoshutiao
 Version: 1.3-3-1
 Architecture: iphoneos-arm
@@ -113,6 +131,24 @@ Icon: https://mieing.github.io/icon/iridiumicon.png
 Name: iridium
 Sileodepiction: https://mieing.github.io/JSON/iridium.json
 
+Package: ccneteasemusic
+Version: 1.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 140
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/rootless/ccneteasemusic_1.0.1-2_iphoneos-arm64.deb
+Size: 15242
+MD5sum: 2d1ba4331f10bd7f57836be7d4273e16
+SHA1: 739e3ad9a59db6fc5c2b704c2cfeb84ea6222543
+SHA256: ba825b345ea9a29eadb29eaca8223b0c4c724ca4b052e6447dd7874e957d2bc4
+Section: Tweaks
+Description: CCNeteaseMusic
+Author: fries
+Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
+Name: CCNeteaseMusic
+Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
+
 Package: com.fries.xiaoshutiao
 Version: 1.3-3-2
 Architecture: iphoneos-arm64
@@ -186,6 +222,24 @@ Author: fries
 Icon: https://Mieing.Github.io/icon/PicsArt.png
 Name: PicsArtCrack
 Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
+
+Package: ccneteasemusic
+Version: 1.0.1-3
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 140
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/roothide/ccneteasemusic_1.0.1-3_iphoneos-arm64e.deb
+Size: 15152
+MD5sum: 04cb6d588a2428845f9c606b885c5d25
+SHA1: 7c3da0ccfc7563c72fc122efb1de28b300a25796
+SHA256: 1ee0b2e1309d5369fb8ae8756c596612974d41fa22ad1a7f9920693969d976d3
+Section: RootHide
+Description: CCNeteaseMusic
+Author: fries
+Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
+Name: CCNeteaseMusic
+Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
 
 Package: mdeb
 Version: 2.0.1
