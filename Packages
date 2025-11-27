@@ -17,16 +17,16 @@ Name: CCNeteaseMusic
 Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
 
 Package: com.fries.xiaoshutiao
-Version: 1.3-3-1
+Version: 1.3-5-1
 Architecture: iphoneos-arm
 Maintainer: fries
-Installed-Size: 140
+Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.xiaoshutiao_1.3-3-1_iphoneos-arm.deb
-Size: 26198
-MD5sum: 79e0fc14959354fcfce74dc752cbb31c
-SHA1: c3a8e04265f5bfb5efa0121329dbef7523665e0a
-SHA256: cba9250698306abfe798df008e54e0227176e88d2fee88632307a6c07ea1d9eb
+Filename: ./debs/rootfull/com.fries.xiaoshutiao_1.3-5-1_iphoneos-arm.deb
+Size: 103772
+MD5sum: b8f91d41545fbd59f6359e46a0f09406
+SHA1: 258b08f55dfe4eb53f6305573f07ee91d3904ee2
+SHA256: e249534157665f44d0e5f0eadeb4cbb4d97108b5809556ab95b985601be778fe
 Section: Tweaks
 Description: 小薯条
 Author: fries
@@ -150,16 +150,16 @@ Name: CCNeteaseMusic
 Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
 
 Package: com.fries.xiaoshutiao
-Version: 1.3-3-2
+Version: 1.3-5-2
 Architecture: iphoneos-arm64
 Maintainer: fries
-Installed-Size: 140
+Installed-Size: 320
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.xiaoshutiao_1.3-3_iphoneos-arm64.deb
-Size: 26280
-MD5sum: 8e2845715226ac859e0ef4b77e1b2ef5
-SHA1: 0c1ee9a4e6c2115de84db7b2cc5434b4f2644ff9
-SHA256: 5272c221f9be02864f2dd756f48348b9241ebc6f6e505196cc28d2f6f651deef
+Filename: ./debs/rootless/com.fries.xiaoshutiao_1.3-5-2_iphoneos-arm64.deb
+Size: 104504
+MD5sum: 7149fff44e741e0f4e4262dc2c2e4f3f
+SHA1: cd071dffb087b4304764a39fdba6de47b652f11f
+SHA256: a904ceb26639465e8ab93ef6f12dde1272e8ad3d336da0292d2afaba6e4656b9
 Section: Tweaks
 Description: 小薯条
 Author: fries
@@ -240,6 +240,24 @@ Author: fries
 Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
 Name: CCNeteaseMusic
 Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
+
+Package: com.fries.xiaoshutiao
+Version: 1.3-5-3
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/com.fries.xiaoshutiao_1.3-5-3_iphoneos-arm64e.deb
+Size: 103670
+MD5sum: 991047ee60423264d730283511eefd68
+SHA1: 246661db2c7abcc3c5a460458ceb45a1c066fd9c
+SHA256: c1ac85200ecee092b9537d6aafc5071f4a8927f477ed557cab939c6e93f5a6fe
+Section: RootHide
+Description: 小薯条
+Author: fries
+Icon: https://mieing.github.io/icon/CydiaIcon.png
+Name: 小薯条
+Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
 
 Package: mdeb
 Version: 2.0.1
