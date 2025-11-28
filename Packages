@@ -241,24 +241,6 @@ Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
 Name: CCNeteaseMusic
 Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
 
-Package: com.25mao.wcplugins.rootless
-Version: 0.1-3
-Architecture: iphoneos-arm64e
-Maintainer: admin@25mao.com
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0)
-Filename: ./debs/roothide/com.25mao.wcplugins.rootless_0.1-3_iphoneos-arm64e.deb
-Size: 26248
-MD5sum: 17bfbb58f8cda2f6184288dd1df9e46d
-SHA1: dd5c88d4e9634e8d90f8317bedf18ad7caa2b986
-SHA256: 15fcd6199f8b7b992ea7f6296475c03540d114e43dc3528f086cbbeaefeb4a3f
-Section: RootHide
-Priority: optional
-Description: 插件管理-Rootless
-Author: Mao
-Name: 微信插件管理-Rootless
-Sponsor: admin@25mao.com
-
 Package: com.fries.xiaoshutiao
 Version: 1.3-5-3
 Architecture: iphoneos-arm64e
