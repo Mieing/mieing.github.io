@@ -15,6 +15,17 @@
         {
           "class": "DepictionSpacerView",
           "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://mieing.github.io/icon/xiaoshutiao.jpg"
+            }
+          ]
         }
       ]
     },
@@ -32,17 +43,6 @@
           "class": "DepictionMarkdownView",
           "markdown": "优化修改最新版本没有的方法</br>优化弹窗为WeChat原生弹窗样式</br>修改我的原始ID > Version",
           "useRawFormat": true
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://mieing.github.io/icon/xiaoshutiao.jpg"
-            }
-          ]
         }
       ]
     }
