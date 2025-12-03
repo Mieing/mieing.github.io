@@ -1,12 +1,12 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://mieing.github.io/Home/Banner.jpg",
-  "minVersion": "0.3",
-  "tabs": [
+          "class": "DepictionTabView",
+          "headerImage": "https://mieing.github.io/Home/Banner.jpg",
+          "minVersion": "0.3",
+          "tabs": [
     {
-      "class": "DepictionStackView",
-      "tabname": "描述",
-      "views": [
+          "class": "DepictionStackView",
+          "tabname": "描述",
+          "views": [
         {
           "class": "DepictionButtonView",
           "text": "Telegram",
@@ -30,9 +30,9 @@
       ]
     },
     {
-      "class": "DepictionStackView",
-      "tabname": "更新日志",
-      "views": [
+          "class": "DepictionStackView",
+          "tabname": "更新日志",
+          "views": [
         {
           "class": "DepictionSubheaderView",
           "title": "1.3.5",
