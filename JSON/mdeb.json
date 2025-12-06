@@ -1,41 +1,58 @@
 {
-    "class": "DepictionTabView",
-    "headerImage": "https://mieing.github.io/Home/Banner.jpg",
-    "minVersion": "0.3",
-    "tabs": [
-      {
-        "class": "DepictionStackView",
-        "tabname": "描述",
-        "views": [
-          {
-            "class": "DepictionButtonView",
-            "text": "Telegram",
-            "action": "https://t.me/miemeiiiii"
-          },
-          {
-            "title": "描述",
-            "class": "DepictionHeaderView"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "批量解压.deb 文件，并自动提取其中的所有.dylib 文件，输出到指定目录。"
-          },
-          {
-            "class": "DepictionSpacerView",
-            "spacing": 16
-          },
-          {
-            "class": "DepictionScreenshotsView",
-            "itemCornerRadius": 6,
-            "itemSize": "{160, 346.4533333333333}",
-            "screenshots": [
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://mieing.github.io/icon/mdeb.png"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "class": "DepictionTabView",
+  "headerImage": "https://mieing.github.io/Home/Banner.jpg",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Telegram",
+          "action": "https://t.me/miemeiiiii"
+        },
+        {
+          "title": "描述",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "批量解压 .deb 文件，并自动提取其中的所有 .dylib 文件，输出到指定目录。"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://mieing.github.io/icon/mdeb.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "修复已知功能",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
