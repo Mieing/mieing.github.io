@@ -13,11 +13,16 @@
             "action": "https://t.me/miemeiiiii"
           },
           {
+            "title": "描述",
+            "class": "DepictionHeaderView"
+          },
+          {
             "class": "DepictionMarkdownView",
-            "markdown": "",
-            "useRawFormat": false,
-            "useMargins": false,
-            "useSpacing": false
+            "markdown": "批量解压.deb 文件，并自动提取其中的所有.dylib 文件，输出到指定目录。"
+          },
+          {
+            "class": "DepictionSpacerView",
+            "spacing": 16
           },
           {
             "class": "DepictionScreenshotsView",
