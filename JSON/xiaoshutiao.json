@@ -13,6 +13,10 @@
           "action": "https://t.me/miemeiiiii"
         },
         {
+          "class": "DepictionMarkdownView",
+          "markdown": "WeChat Tweak!"
+        },
+        {
           "class": "DepictionSpacerView",
           "spacing": 16
         },
