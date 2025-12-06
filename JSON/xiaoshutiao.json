@@ -43,7 +43,18 @@
           "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.3.5",
+          "title": "1.3-7",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "增加添加时间详细</br>优化隐藏我微信号</br>更新了版本号",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.3-5",
           "useBoldText": true,
           "useBottomMargin": false
         },
