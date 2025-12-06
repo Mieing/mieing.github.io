@@ -49,7 +49,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "修复已知功能",
+          "markdown": "解决了一些已知问题。",
           "useRawFormat": true
         }
       ]
