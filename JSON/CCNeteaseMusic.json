@@ -13,11 +13,16 @@
           "action": "https://t.me/miemeiiiii"
         },
         {
+          "title": "描述",
+          "class": "DepictionHeaderView"
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "",
-          "useRawFormat": false,
-          "useMargins": false,
-          "useSpacing": false
+          "markdown": "一个控制中心模块"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
           "class": "DepictionScreenshotsView",
