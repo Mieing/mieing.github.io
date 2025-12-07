@@ -49,7 +49,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "增加添加时间详细</br>优化隐藏我微信号</br>更新了版本号",
+          "markdown": "增加精确添加时间</br>优化隐藏我微信号</br>更新了版本号",
           "useRawFormat": true
         },
         {
