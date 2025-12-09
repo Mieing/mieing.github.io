@@ -1,0 +1,58 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://mieing.github.io/Home/Banner.jpg",
+    "minVersion": "0.3",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "描述",
+        "views": [
+          {
+            "class": "DepictionButtonView",
+            "text": "Telegram",
+            "action": "https://t.me/miemeiiiii"
+          },
+          {
+            "title": "描述",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "一个控制中心模块"
+          },
+          {
+            "class": "DepictionSpacerView",
+            "spacing": 16
+          },
+          {
+            "class": "DepictionScreenshotsView",
+            "itemCornerRadius": 6,
+            "itemSize": "{160, 346.4533333333333}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://mieing.github.io/icon/CCTunnelTap.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "更新日志",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "title": "1.0.0",
+            "useBoldText": true,
+            "useBottomMargin": false
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "初始版本",
+            "useRawFormat": true
+          }
+        ]
+      }
+    ]
+  }

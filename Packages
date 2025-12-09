@@ -16,6 +16,24 @@ Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
 Name: CCNeteaseMusic
 Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
 
+Package: cctunneltap
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/rootfull/cctunneltap_1.0.0_iphoneos-arm.deb
+Size: 25570
+MD5sum: e0fbd0c1255a5a449d010b8d6e5b5353
+SHA1: f93ffee229433e622dadf90c06196b52dac424da
+SHA256: ef01b7e56374e9865b16206a2b4ace6c936c97b2d45a3136b324947b53a7b669
+Section: Tweaks
+Description: CCTunnelTap
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
+Name: CCTunnelTap
+Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
+
 Package: libzstd1
 Version: 1.4.8-1
 Architecture: iphoneos-arm
@@ -130,6 +148,24 @@ Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
 Name: CCNeteaseMusic
 Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
 
+Package: cctunneltap
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/rootless/cctunneltap_1.0.0_iphoneos-arm64.deb
+Size: 25652
+MD5sum: 35214e365a48a9aa66e056f3e0b5940f
+SHA1: 2a1ace235eddc6d2a9b890fd3519c54ea1ed804d
+SHA256: 484422e4f5d22b03b11ef7596378e6acc25ec421caea380c61d8b5931dedb989
+Section: Tweaks
+Description: CCTunnelTap
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
+Name: CCTunnelTap
+Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
+
 Package: mdeb
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -202,6 +238,24 @@ Author: fries
 Icon: https://mieing.github.io/icon/CCNeteaseMusic.png
 Name: CCNeteaseMusic
 Sileodepiction: https://mieing.github.io/JSON/CCNeteaseMusic.json
+
+Package: cctunneltap
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/roothide/cctunneltap_1.0.0_iphoneos-arm64e.deb
+Size: 25574
+MD5sum: 79320b29a0f0d8a98e368b7a54428954
+SHA1: 1e5e35530a673fb6a9e0dd191f25db88356bb9a1
+SHA256: 67915c039d19375fff64f4629a767638491d85a419c2a96b765b08a8661bafe5
+Section: RootHide
+Description: CCTunnelTap
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
+Name: CCTunnelTap
+Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
 
 Package: mdeb
 Version: 2.0.1
