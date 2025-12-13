@@ -34,6 +34,24 @@ Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
 
+Package: intolive
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/intolive_1.0.0_iphoneos-arm.deb
+Size: 36340
+MD5sum: da4cd7fa281e5f547117dc3231c31366
+SHA1: 2e58dd4eeaca697d677b7521bb39ef0bef53a165
+SHA256: 0e0762514f9e5685559f093ee68eb29dbc6c2c1e76fa839659c4b00bd06327d0
+Section: Tweaks
+Description: intoLiveCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/intoLive.png
+Name: intoLiveCrack
+Sileodepiction: https://mieing.github.io/JSON/intoLive.json
+
 Package: libzstd1
 Version: 1.4.8-1
 Architecture: iphoneos-arm
@@ -166,6 +184,24 @@ Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
 
+Package: intolive
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/intolive_1.0.0_iphoneos-arm64.deb
+Size: 38246
+MD5sum: 88cc0066f958a4e3b2d19836b1f3f384
+SHA1: a1ce4664f1bc1a54b94d0abe2777c77b72bc548f
+SHA256: b77f3e715ff9069d6e8b77bcb914492ac5b412b6c87894f10775b921b11e828f
+Section: Tweaks
+Description: intoLiveCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/intoLive.png
+Name: intoLiveCrack
+Sileodepiction: https://mieing.github.io/JSON/intoLive.json
+
 Package: mdeb
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -256,6 +292,24 @@ Author: fries
 Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
+
+Package: intolive
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/intolive_1.0.0_iphoneos-arm64e.deb
+Size: 35918
+MD5sum: 7c64c3637a84f4dc25b12f6f7028e59b
+SHA1: 0558c5aad33f88e42e37bc798e6891006b87e44c
+SHA256: 7881054f835c9a0f2e90a21df7f64e79d68e07becae5b5ea0e8330e51edba4ef
+Section: RootHide
+Description: intoLiveCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/intoLive.png
+Name: intoLiveCrack
+Sileodepiction: https://mieing.github.io/JSON/intoLive.json
 
 Package: mdeb
 Version: 2.0.1
