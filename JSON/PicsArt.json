@@ -51,7 +51,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "兼容最新版本",
           "useRawFormat": true
-        }
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.0",
