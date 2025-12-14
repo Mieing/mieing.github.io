@@ -31,7 +31,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://mieing.github.io/icon/PicsArtCrack.png"
+              "url": "https://mieing.github.io/icon/PicsArt.jpg"
             }
           ]
         }
@@ -41,6 +41,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "兼容最新版本",
+          "useRawFormat": true
+        }
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.0",

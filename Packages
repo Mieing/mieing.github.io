@@ -94,21 +94,22 @@ Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
-Package: picsartcrack
-Version: 1.0.0-1
+Package: picsart
+Version: 1.0.1
+Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 232
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/picsartcrack_1.0.0-1_.deb
-Size: 26448
-MD5sum: e213f3f54c49eb784b6c6978937db076
-SHA1: e1c3dbae208d3029afeb1c33e0195ccd1be42720
-SHA256: d9773cd0b36ba2b53e581413507a7508300a99a6b98af29cbad0dd41a727c0c9
+Filename: ./debs/rootfull/picsart_1.0.1_iphoneos-arm.deb
+Size: 37492
+MD5sum: 38a5a279023eff46d51cabef756584c6
+SHA1: fa3cd338cb4be1387bbb6e27930bcf5806a6e393
+SHA256: 9e07623afac6615c0247f4f439d3544029a6e6be42656c13ed3508bf6623caef
 Section: Tweaks
-Description: PicsArtCrack 28.8.2
+Description: PicsArtCrack 28.9.4
 Author: fries
 Icon: https://Mieing.Github.io/icon/PicsArt.png
-Name: PicsArtCrack
+Name: PicsArt
 Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
 
 Package: wiki.qaq.iridium
@@ -221,22 +222,22 @@ Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
-Package: picsartcrack
-Version: 1.0.0-2
+Package: picsart
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: fries
-Installed-Size: 232
+Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/picsartcrack_1.0.0-2_iphoneos-arm64.deb
-Size: 28458
-MD5sum: 9c6e640ecc024450b51c801b7b696b5f
-SHA1: 1b7fea1d55dc4fbdfb2e8388c9b917b10ac6e43a
-SHA256: 02ed882a7cf98a61f0a70c39f7e01e3ab2ccaebcb6ec3e612d47db77d0e89ed5
+Filename: ./debs/rootless/picsart_1.0.1_iphoneos-arm64.deb
+Size: 41240
+MD5sum: 7d4fc2027f8f94df7a50882ebdd01ea9
+SHA1: 14b73d64e597d1fac041e0022aef02b1333ed6e9
+SHA256: 6c54923719e1a61998b5aef5ee11c0f5906bd5463fb4704f96c42add2dbcae5e
 Section: Tweaks
-Description: PicsArtCrack 28.8.2
+Description: PicsArtCrack 28.9.4
 Author: fries
 Icon: https://Mieing.Github.io/icon/PicsArt.png
-Name: PicsArtCrack
+Name: PicsArt
 Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
 
 Package: xiaoshutiao
@@ -330,22 +331,22 @@ Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
-Package: picsartcrack
-Version: 1.0.0-3
+Package: picsart
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/picsartcrack_1.0.0-3_iphoneos-arm64e.deb
-Size: 37804
-MD5sum: 7be8f593d2f2b6ecf196a8b350544cb2
-SHA1: c934686ac8c3d0e7b972b6f2d8ca9b372e80a779
-SHA256: e946d5cc4a4090cccacb88811a8391791a40c036932c47a712b391ec5c154645
+Filename: ./debs/roothide/picsart_1.0.1_iphoneos-arm64e.deb
+Size: 34156
+MD5sum: 95140b99334143977852d88cdfcd105c
+SHA1: 87d6b0afde28cd8b0652946fbf0120eff119c8df
+SHA256: 2868b97fa7ad92e23691195eb2dbe86b6c889aba6ae16c0e8d1178f6b8e56ca7
 Section: RootHide
-Description: PicsArtCrack 28.8.2
+Description: PicsArtCrack 28.9.4
 Author: fries
 Icon: https://Mieing.Github.io/icon/PicsArt.png
-Name: PicsArtCrack
+Name: PicsArt
 Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
 
 Package: xiaoshutiao
