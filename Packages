@@ -34,6 +34,24 @@ Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
 
+Package: dazz
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/dazz_1.0.0_iphoneos-arm.deb
+Size: 15694
+MD5sum: aa83e3af75bf1284afdb394a0dd3bd58
+SHA1: e6ffd230bd0aa5649cb87a7e0d5daab1f39e5474
+SHA256: e69568d9d92492d7f02b1a4ee5b42607290ae4f8ea5074d50ca1d90b90f74c34
+Section: Tweaks
+Description: DazzCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/Dazz.png
+Name: DazzCrack
+Sileodepiction: https://mieing.github.io/JSON/Dazz.json
+
 Package: intolive
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -185,6 +203,24 @@ Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
 
+Package: dazz
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/dazz_1.0.0_iphoneos-arm64.deb
+Size: 15998
+MD5sum: c8972fbd6a0a7cf7534eb984aa83b12b
+SHA1: 6ff5210e0b463e73cb9f755c86333b79a0ce914d
+SHA256: ab9ff206b7a2e2622a8e31b015afc5768854b125e95a61f840e77a565093e6cf
+Section: Tweaks
+Description: DazzCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/Dazz.png
+Name: DazzCrack
+Sileodepiction: https://mieing.github.io/JSON/Dazz.json
+
 Package: intolive
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -293,6 +329,24 @@ Author: fries
 Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
+
+Package: dazz
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/dazz_1.0.0_iphoneos-arm64e.deb
+Size: 15520
+MD5sum: c1abebf49ca31d5e1a8078e8d0df8520
+SHA1: 7deb99c1ebc999cf90f3fad7bfbdcc89ead451e9
+SHA256: eed2850760c15990da89308c153764d28c77f00d8eac65b1319b7ecdfd86b01c
+Section: RootHide
+Description: DazzCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/Dazz.png
+Name: DazzCrack
+Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
 Package: intolive
 Version: 1.0.0
