@@ -34,6 +34,23 @@ Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
 
+Package: com.ios.il2cppdumper
+Version: 1.0.0
+Architecture: iphoneos-arm
+Installed-Size: 772
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.ios.il2cppdumper_1.0.0_iphoneos-arm.deb
+Size: 142146
+MD5sum: 200637e477ed0ef206e4fc4b109b0f01
+SHA1: 1b07a18819bb9cc5805f66fe6a35d8825e81321e
+SHA256: 2e0ac2f12c6ab51e09acc611fb71d16c0f9db5770cc9d7cbdd7b18bc21cd6ca4
+Section: Tweaks
+Description: Dump il2cpp data at runtime on iOS
+Author: Batchh & tien0246
+Icon: https://Mieing.Github.io/icon/CydiaIcon.png
+Name: IOS Il2CppDumper
+Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
+
 Package: dazz
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -221,6 +238,23 @@ Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
 
+Package: com.ios.il2cppdumper
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Installed-Size: 772
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.ios.il2cppdumper_1.0.0_iphoneos-arm64.deb
+Size: 141718
+MD5sum: cde3cebb6da9993de7360cb5522a7832
+SHA1: 02ce7742fcdb8be8c712904ba7413e223f5efb9b
+SHA256: 4f3a08e24e52416c4ad82c25ea9b4230f0e28e64ca4b43dfaa65e44f66d917e4
+Section: Tweaks
+Description: Dump il2cpp data at runtime on iOS
+Author: Batchh & tien0246
+Icon: https://Mieing.Github.io/icon/CydiaIcon.png
+Name: IOS Il2CppDumper
+Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
+
 Package: dazz
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -365,6 +399,23 @@ Author: fries
 Icon: https://mieing.github.io/icon/CCTunnelTap.png
 Name: CCTunnelTap
 Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
+
+Package: com.ios.il2cppdumper
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Installed-Size: 772
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.ios.il2cppdumper_1.0.0_iphoneos-arm64e.deb
+Size: 142204
+MD5sum: dace7b5e909e67400c529817de408da7
+SHA1: 4fbc7ddd7e9cede3b0cd45d82d92ec56697efdff
+SHA256: 97f24aa1b320df15ac44a538aa963500b04b19fd30ce72ad317ebafd2a5a0c4a
+Section: RootHide
+Description: Dump il2cpp data at runtime on iOS
+Author: Batchh & tien0246
+Icon: https://Mieing.Github.io/icon/CydiaIcon.png
+Name: IOS Il2CppDumper
+Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
 
 Package: dazz
 Version: 1.0.0
