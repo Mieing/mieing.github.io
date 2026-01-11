@@ -10,7 +10,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Telegram",
-          "action": "https://t.me/miemeiiiii"
+          "action": "https://t.me/iOSMIEING0210"
         },
         {
           "title": "描述",
@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "文本"
+          "markdown": "修改"
         },
         {
           "class": "DepictionSpacerView",
@@ -31,7 +31,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://mieing.github.io/icon/Dazz.jpg"
+              "url": "https://mieing.github.io/icon/修改.jpg"
             }
           ]
         }
