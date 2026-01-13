@@ -70,16 +70,16 @@ Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
 Package: imgplay
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/imgplay_1.0.0_iphoneos-arm.deb
-Size: 15424
-MD5sum: a6bd38f3def985db9d54bf72e13ad749
-SHA1: f2c7ab496f5a8b16ed1ee8f525e40f90f645d134
-SHA256: 37f39ecdedd452315cc4413d0de550039b86939eeb84c0d0bda045137b93a10b
+Filename: ./debs/rootfull/imgplay_1.0.1_iphoneos-arm.deb
+Size: 15454
+MD5sum: 3d269b3aea530d0250c6c22d6a0894b4
+SHA1: 11ef99452cbf759633577037da2979eb660139f5
+SHA256: 69f4efea238c26f265afd70ec92c32aa67e171e044e77bf64b3166645547764b
 Section: Tweaks
 Description: imgplay!
 Author: fries
@@ -292,16 +292,16 @@ Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
 Package: imgplay
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/imgplay_1.0.0_iphoneos-arm64.deb
-Size: 15354
-MD5sum: 5cee1714e3aa31bc3ae2ba5af99a0183
-SHA1: f98028cb42f373881057edd77acbf8e5bf5db2e5
-SHA256: 0da96982d07f44f5dfe2c179b0826969a44eae23ba8f74ca8e3c4d18d15a92a0
+Filename: ./debs/rootless/imgplay_1.0.1_iphoneos-arm64.deb
+Size: 14948
+MD5sum: 7d524b32c5bf9e88fef60db670a564b8
+SHA1: f6927db0b7f49bee6a26f37c8bc208bcc984ace7
+SHA256: 1f3e2a7f1328d713278ca87e83633e4f6de626e204cb923c9754a7ada5f1f902
 Section: Tweaks
 Description: imgplay!
 Author: fries
@@ -472,16 +472,16 @@ Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
 Package: imgplay
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/imgplay_1.0.0_iphoneos-arm64e.deb
-Size: 15694
-MD5sum: 64a174951a4fa0bf056435e0a3d2b486
-SHA1: a06fec5b6c33178016345c903b88767b21b819f3
-SHA256: 4e9ba205b5cd330a617d9b38eb8f82ca7799d75e175bb0eb428cfd242f010fa2
+Filename: ./debs/roothide/imgplay_1.0.1_iphoneos-arm64e.deb
+Size: 15434
+MD5sum: d62d71ab4d5b94a30436fceaf26b4bb4
+SHA1: 5a6eb9f9f0f60e89bed3c756e7940e913c15e8a1
+SHA256: f73757a412d5edda8079ea952a8b7c54c0e736ba9f4bfc81d3368cfc606fcfb7
 Section: RootHide
 Description: imgplay!
 Author: fries
