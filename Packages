@@ -76,15 +76,15 @@ Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/imgplay_1.0.2_iphoneos-arm.deb
-Size: 15454
-MD5sum: c988bb3f7faaec07855599c8a362fd19
-SHA1: 67bf72100bbeca9782a9d3d83299ffd6c4cb3905
-SHA256: 65d565d3dbfa2488a0af7403fbaddb0b73ee277b6bd4a956d526d13e16b8936a
+Size: 15176
+MD5sum: a42860e491e09c47c78166e63a2296bd
+SHA1: df5f5389f8ba046d425e6da9b11ec103bf24c04b
+SHA256: 0e26fdd8820648c984955d0ccb9b33d46e4d82feca0d1b08e278eec7051a6eb8
 Section: Tweaks
-Description: imgplay!
+Description: imgplayCrack!
 Author: fries
 Icon: https://mieing.github.io/icon/imgplay.png
-Name: ImgPlay
+Name: ImgPlayCrack
 Sileodepiction: https://mieing.github.io/JSON/imgplay.json
 
 Package: intolive
@@ -298,15 +298,15 @@ Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/imgplay_1.0.2_iphoneos-arm64.deb
-Size: 15484
-MD5sum: 3ece6b0530f7034385c23af9489ae3b5
-SHA1: 7c16a02f76d1a8b00a16ea0dad88996e97bffb8a
-SHA256: 0bc3b39a7bca65e14bfcf1a6b84a8e7c40b6e63a684326865769eb32561a5bec
+Size: 15342
+MD5sum: 257a8083238707d97df8b29a8afddefd
+SHA1: a2e2d0bb07622e694039d0151a704d4c47d86cbe
+SHA256: 0b73564547ad1e46cd7a436fd1a24cf6e033986ad5766ef270b4866e4b174a96
 Section: Tweaks
-Description: imgplay!
+Description: imgplayCrack!
 Author: fries
 Icon: https://mieing.github.io/icon/imgplay.png
-Name: ImgPlay
+Name: ImgPlayCrack
 Sileodepiction: https://mieing.github.io/JSON/imgplay.json
 
 Package: intolive
@@ -478,15 +478,15 @@ Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/roothide/imgplay_1.0.2_iphoneos-arm64e.deb
-Size: 15314
-MD5sum: 4fc310c116a862b5f58b037c3c9c0928
-SHA1: 55b6a80d00ae7157d2566f665bd1cc92e890da85
-SHA256: ae434ecd07cd4bd5f1e42265b7d56ebef856238c901c69201ed0771904fc1205
+Size: 15250
+MD5sum: 02247971777907663e581d891b183a60
+SHA1: 0e17a09f5a07349d9f99655ca41bdab9fdbad4a2
+SHA256: 839814f7ed310407b9705d7dfc90f9d2c9496289dece3701b29567bb6d18c7a9
 Section: RootHide
-Description: imgplay!
+Description: imgplayCrack!
 Author: fries
 Icon: https://mieing.github.io/icon/imgplay.png
-Name: ImgPlay
+Name: ImgPlayCrack
 Sileodepiction: https://mieing.github.io/JSON/imgplay.json
 
 Package: intolive
