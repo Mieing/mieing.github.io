@@ -52,16 +52,16 @@ Name: IOS Il2CppDumper
 Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
 
 Package: dazz
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/dazz_1.0.0_iphoneos-arm.deb
-Size: 15694
-MD5sum: aa83e3af75bf1284afdb394a0dd3bd58
-SHA1: e6ffd230bd0aa5649cb87a7e0d5daab1f39e5474
-SHA256: e69568d9d92492d7f02b1a4ee5b42607290ae4f8ea5074d50ca1d90b90f74c34
+Filename: ./debs/rootfull/dazz_1.0.2_iphoneos-arm.deb
+Size: 15992
+MD5sum: d3e4409075d19951e552b61149db361e
+SHA1: f1bf3442bd7e0f6f53b1daa27035ce46c6cf21ef
+SHA256: 0a546e4d7a0c80eceb4cac1535984b5574caa441a7c946f99dd510cb07f6f158
 Section: Tweaks
 Description: DazzCrack!
 Author: fries
@@ -70,16 +70,16 @@ Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
 Package: imgplay
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/imgplay_1.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/imgplay_1.0.2_iphoneos-arm.deb
 Size: 15454
-MD5sum: 3d269b3aea530d0250c6c22d6a0894b4
-SHA1: 11ef99452cbf759633577037da2979eb660139f5
-SHA256: 69f4efea238c26f265afd70ec92c32aa67e171e044e77bf64b3166645547764b
+MD5sum: c988bb3f7faaec07855599c8a362fd19
+SHA1: 67bf72100bbeca9782a9d3d83299ffd6c4cb3905
+SHA256: 65d565d3dbfa2488a0af7403fbaddb0b73ee277b6bd4a956d526d13e16b8936a
 Section: Tweaks
 Description: imgplay!
 Author: fries
@@ -88,16 +88,16 @@ Name: ImgPlay
 Sileodepiction: https://mieing.github.io/JSON/imgplay.json
 
 Package: intolive
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/intolive_1.0.0_iphoneos-arm.deb
-Size: 36340
-MD5sum: da4cd7fa281e5f547117dc3231c31366
-SHA1: 2e58dd4eeaca697d677b7521bb39ef0bef53a165
-SHA256: 0e0762514f9e5685559f093ee68eb29dbc6c2c1e76fa839659c4b00bd06327d0
+Filename: ./debs/rootfull/intolive_1.0.2_iphoneos-arm.deb
+Size: 34896
+MD5sum: ffd23724ef134d52e0b64c7b948c6876
+SHA1: 9bc2b3fbe8e8d887a5be64c94326114851b2e70d
+SHA256: 9594a7bc7e00119ca30445c8bd1c23e6dbc74064817e0c928c52387f9a9fcbe6
 Section: Tweaks
 Description: intoLiveCrack!
 Author: fries
@@ -148,18 +148,18 @@ Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
 Package: picsart
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/picsart_1.0.1_iphoneos-arm.deb
-Size: 34098
-MD5sum: 32ae485b3287b3edb1cf305865bb67e6
-SHA1: f87336d0bd51591e8e6a75e8feabb3f5649f91b4
-SHA256: 259ccdccc834ed064e39e81a6932fde86546de4c52f6348ab1cb4ba0e869e3f3
+Filename: ./debs/rootfull/picsart_1.0.2_iphoneos-arm.deb
+Size: 31330
+MD5sum: f9b3d28f372d30bf60c3f8a6aab50738
+SHA1: 7c2ddc2027430d4a19894c6175333253c03b8a93
+SHA256: b9a32802012b3fbd13c3bc6e16ed125bdc086e50f8548d148bd82c60e29663e8
 Section: Tweaks
-Description: PicsArtCrack 29.0.2
+Description: PicsArtCrack!
 Author: fries
 Icon: https://Mieing.Github.io/icon/PicsArt.png
 Name: PicsArtCrack
@@ -292,16 +292,16 @@ Name: IOS Il2CppDumper
 Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
 
 Package: dazz
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/dazz_1.0.0_iphoneos-arm64.deb
-Size: 15998
-MD5sum: c8972fbd6a0a7cf7534eb984aa83b12b
-SHA1: 6ff5210e0b463e73cb9f755c86333b79a0ce914d
-SHA256: ab9ff206b7a2e2622a8e31b015afc5768854b125e95a61f840e77a565093e6cf
+Filename: ./debs/rootless/dazz_1.0.2_iphoneos-arm64.deb
+Size: 15872
+MD5sum: a8eb2dea9596e146c4b0e0edbf30643a
+SHA1: c1d8ff6ca1644c2ee2ed5fdd0418d818be51132f
+SHA256: 27432218fa93d60c3ef04458931d80ab9b6c0e1a2b6412f1e3887f5c14d195db
 Section: Tweaks
 Description: DazzCrack!
 Author: fries
@@ -310,16 +310,16 @@ Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
 Package: imgplay
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/imgplay_1.0.1_iphoneos-arm64.deb
-Size: 14948
-MD5sum: 7d524b32c5bf9e88fef60db670a564b8
-SHA1: f6927db0b7f49bee6a26f37c8bc208bcc984ace7
-SHA256: 1f3e2a7f1328d713278ca87e83633e4f6de626e204cb923c9754a7ada5f1f902
+Filename: ./debs/rootless/imgplay_1.0.2_iphoneos-arm64.deb
+Size: 15484
+MD5sum: 3ece6b0530f7034385c23af9489ae3b5
+SHA1: 7c16a02f76d1a8b00a16ea0dad88996e97bffb8a
+SHA256: 0bc3b39a7bca65e14bfcf1a6b84a8e7c40b6e63a684326865769eb32561a5bec
 Section: Tweaks
 Description: imgplay!
 Author: fries
@@ -328,16 +328,16 @@ Name: ImgPlay
 Sileodepiction: https://mieing.github.io/JSON/imgplay.json
 
 Package: intolive
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/intolive_1.0.0_iphoneos-arm64.deb
-Size: 38246
-MD5sum: 88cc0066f958a4e3b2d19836b1f3f384
-SHA1: a1ce4664f1bc1a54b94d0abe2777c77b72bc548f
-SHA256: b77f3e715ff9069d6e8b77bcb914492ac5b412b6c87894f10775b921b11e828f
+Filename: ./debs/rootless/intolive_1.0.2_iphoneos-arm64.deb
+Size: 33666
+MD5sum: 556d32893d003b188877d010e7574db3
+SHA1: 47884d9bd31cce3860b2438b1647d43cfa6227b4
+SHA256: 7058ae4d00402b1943ab424c8c851ccde358a64c1a777ef9f78ebdf229dd54b5
 Section: Tweaks
 Description: intoLiveCrack!
 Author: fries
@@ -365,18 +365,18 @@ Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
 Package: picsart
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: fries
-Installed-Size: 248
+Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/picsart_1.0.1_iphoneos-arm64.deb
-Size: 40142
-MD5sum: 576fab0dbf321ad2931e105c8b35f0d1
-SHA1: 9dc5c3351c863f3fe34cb094c9082301d9b92210
-SHA256: b8fce64dfebd17c2d4c8950e08e59926b294828a77659e55d791ec75154e02b4
+Filename: ./debs/rootless/picsart_1.0.2_iphoneos-arm64.deb
+Size: 30894
+MD5sum: ea162ca79c9e2f6abacf29d4823e07d3
+SHA1: 6899515934c5515ac71fb57cb8178006ee05e675
+SHA256: 6b6260fd2bc01b4e552b7838964d46503f46e2fa6c4ebaaa95d1f390dc787286
 Section: Tweaks
-Description: PicsArtCrack 29.0.2
+Description: PicsArtCrack!
 Author: fries
 Icon: https://Mieing.Github.io/icon/PicsArt.png
 Name: PicsArtCrack
@@ -490,16 +490,16 @@ Name: IOS Il2CppDumper
 Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
 
 Package: dazz
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/dazz_1.0.0_iphoneos-arm64e.deb
-Size: 15520
-MD5sum: c1abebf49ca31d5e1a8078e8d0df8520
-SHA1: 7deb99c1ebc999cf90f3fad7bfbdcc89ead451e9
-SHA256: eed2850760c15990da89308c153764d28c77f00d8eac65b1319b7ecdfd86b01c
+Filename: ./debs/roothide/dazz_1.0.2_iphoneos-arm64e.deb
+Size: 16122
+MD5sum: 33b283b657244fdde82b1f13f4838613
+SHA1: 8436248de618d0f83e20c78e3dab654891f9ceec
+SHA256: 6799cd08eee34228d16161f8d9badb59befc85ac3dd41d37f985aa8c9e8e98d5
 Section: RootHide
 Description: DazzCrack!
 Author: fries
@@ -508,16 +508,16 @@ Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
 Package: imgplay
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/imgplay_1.0.1_iphoneos-arm64e.deb
-Size: 15434
-MD5sum: d62d71ab4d5b94a30436fceaf26b4bb4
-SHA1: 5a6eb9f9f0f60e89bed3c756e7940e913c15e8a1
-SHA256: f73757a412d5edda8079ea952a8b7c54c0e736ba9f4bfc81d3368cfc606fcfb7
+Filename: ./debs/roothide/imgplay_1.0.2_iphoneos-arm64e.deb
+Size: 15314
+MD5sum: 4fc310c116a862b5f58b037c3c9c0928
+SHA1: 55b6a80d00ae7157d2566f665bd1cc92e890da85
+SHA256: ae434ecd07cd4bd5f1e42265b7d56ebef856238c901c69201ed0771904fc1205
 Section: RootHide
 Description: imgplay!
 Author: fries
@@ -526,16 +526,16 @@ Name: ImgPlay
 Sileodepiction: https://mieing.github.io/JSON/imgplay.json
 
 Package: intolive
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/intolive_1.0.0_iphoneos-arm64e.deb
-Size: 35918
-MD5sum: 7c64c3637a84f4dc25b12f6f7028e59b
-SHA1: 0558c5aad33f88e42e37bc798e6891006b87e44c
-SHA256: 7881054f835c9a0f2e90a21df7f64e79d68e07becae5b5ea0e8330e51edba4ef
+Filename: ./debs/roothide/intolive_1.0.2_iphoneos-arm64e.deb
+Size: 35066
+MD5sum: 15066ba6a472cb5fd2e7909f358e26f0
+SHA1: 43acb8d487ebb4551d19293d0b9ee3c66fd77476
+SHA256: 36b353c3d90e8451fccdc77769b680aab7cfa7b20f34f8d757ed14c472723915
 Section: RootHide
 Description: intoLiveCrack!
 Author: fries
@@ -563,18 +563,18 @@ Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
 Package: picsart
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 232
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/picsart_1.0.1_iphoneos-arm64e.deb
-Size: 34686
-MD5sum: 55ae02f780728356dfcfdbec672386bb
-SHA1: 22711f65c5025c9f1f467bf7b6da1390534ecc29
-SHA256: 2295a1479d8cbdb1f9bdedfe3d923758a386fe53f83e1476f69670e73da96649
+Filename: ./debs/roothide/picsart_1.0.2_iphoneos-arm64e.deb
+Size: 37620
+MD5sum: 46fbb698c27f52b2dac5f981b6bf0dcc
+SHA1: ea5631e5c8aa276958b1e3bff25f1ddd3d238b50
+SHA256: f1aeb96bee69867314299c61086a0f937ad9f437e8e5066b1393387b8d934a47
 Section: RootHide
-Description: PicsArtCrack 29.0.2
+Description: PicsArtCrack!
 Author: fries
 Icon: https://Mieing.Github.io/icon/PicsArt.png
 Name: PicsArtCrack
