@@ -166,16 +166,16 @@ Name: PicsArtCrack
 Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
 
 Package: proccd
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 284
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/proccd_1.0.0_iphoneos-arm.deb
-Size: 51258
-MD5sum: 694e7e6e86d8a894ccf3b8a1652d9de9
-SHA1: 4d0e35dc4dc8b3b33c27e08c689576db2b6888b7
-SHA256: 872d241d631d60ce554d758647212ba51abacd134edaadb9040a781b83978fea
+Filename: ./debs/rootfull/proccd_1.0.2_iphoneos-arm.deb
+Size: 50388
+MD5sum: 72d3dd2c0231da008c79b4a231c95cde
+SHA1: 936691646496c8df0ab7b1288354d8811dcbfa8e
+SHA256: 36552285445617974e88a426b83d216e7959be04bc25770c93f3d8993049e624
 Section: Tweaks
 Description: ProCCDCrack!
 Author: fries
@@ -383,16 +383,16 @@ Name: PicsArtCrack
 Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
 
 Package: proccd
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 284
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/proccd_1.0.0_iphoneos-arm64.deb
-Size: 51098
-MD5sum: fc058bc0d1d7fffca610cf79fcaf1043
-SHA1: aa864fd3e9d59329a44220b7662544bde9a96d36
-SHA256: f6dd69acf367138993739a60c96dd1d6964e02e32d40fe7b6dceb7c150f2ea47
+Filename: ./debs/rootless/proccd_1.0.2_iphoneos-arm64.deb
+Size: 54222
+MD5sum: c44f28bb2052c64bc0fab8c4dd1338b0
+SHA1: 335f959aad0984a2f567a64572589ce1bac45822
+SHA256: 5ef7075ff783d9c436c7da896c810b673bcd3f086c6383ec190dceea0af46728
 Section: Tweaks
 Description: ProCCDCrack!
 Author: fries
@@ -581,16 +581,16 @@ Name: PicsArtCrack
 Sileodepiction: https://mieing.github.io/JSON/PicsArt.json
 
 Package: proccd
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 284
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/proccd_1.0.0_iphoneos-arm64e.deb
-Size: 50834
-MD5sum: 6fdeab949e3534dd555295697615b9d3
-SHA1: 62688be7abd661d9085a4847ff8aa26a2c2a03c5
-SHA256: 3ce2db185ddefcf2d543260f7a16bda6440ef52ba5b55aec6c69230ae4700321
+Filename: ./debs/roothide/proccd_1.0.2_iphoneos-arm64e.deb
+Size: 50676
+MD5sum: ef6e86c508172bf418513746f3305456
+SHA1: 14384764b1c08200d36d7b9c07090ffa22af7c74
+SHA256: bf45611e51dbfa6c0d38d1d37258991d963126f147f0b1a0407d35e946daa884
 Section: RootHide
 Description: ProCCDCrack!
 Author: fries
