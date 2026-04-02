@@ -52,16 +52,16 @@ Name: IOS Il2CppDumper
 Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
 
 Package: dazz
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/dazz_1.0.2_iphoneos-arm.deb
-Size: 15992
-MD5sum: d3e4409075d19951e552b61149db361e
-SHA1: f1bf3442bd7e0f6f53b1daa27035ce46c6cf21ef
-SHA256: 0a546e4d7a0c80eceb4cac1535984b5574caa441a7c946f99dd510cb07f6f158
+Filename: ./debs/rootfull/dazz_1.0.3_iphoneos-arm.deb
+Size: 15150
+MD5sum: 5a3b06406fad219291b9fb8de693a6a9
+SHA1: 0f4b54ccce1f9334ea79710bd44acedb7ba33b79
+SHA256: 663d53e5d517f3d4b70061963ec82482e06fda6bf92c4ca4f54ec47ffefe1ea1
 Section: Tweaks
 Description: DazzCrack!
 Author: fries
@@ -148,16 +148,16 @@ Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
 Package: picsart
-Version: 1.0.2
+Version: 1.3.0
 Architecture: iphoneos-arm
 Maintainer: fries
-Installed-Size: 248
+Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/picsart_1.0.2_iphoneos-arm.deb
-Size: 31330
-MD5sum: f9b3d28f372d30bf60c3f8a6aab50738
-SHA1: 7c2ddc2027430d4a19894c6175333253c03b8a93
-SHA256: b9a32802012b3fbd13c3bc6e16ed125bdc086e50f8548d148bd82c60e29663e8
+Filename: ./debs/rootfull/picsart_1.3.0_iphoneos-arm.deb
+Size: 29086
+MD5sum: 67d5c81bc9278f7013baf469c79ad561
+SHA1: ef86eac1c285883f5f6f15455045c1ee0dede547
+SHA256: d6cd3c5c31a4919cef05940e4ce81bc923f5083d6d7fae57d0c2d270126ec803
 Section: Tweaks
 Description: PicsArtCrack!
 Author: fries
@@ -274,16 +274,16 @@ Name: IOS Il2CppDumper
 Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
 
 Package: dazz
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/dazz_1.0.2_iphoneos-arm64.deb
-Size: 15872
-MD5sum: a8eb2dea9596e146c4b0e0edbf30643a
-SHA1: c1d8ff6ca1644c2ee2ed5fdd0418d818be51132f
-SHA256: 27432218fa93d60c3ef04458931d80ab9b6c0e1a2b6412f1e3887f5c14d195db
+Filename: ./debs/rootless/dazz_1.0.3_iphoneos-arm64.deb
+Size: 15498
+MD5sum: 27be85046a376f578d6fed6d6bab74ca
+SHA1: 5b30d4baae437d95b49f8345316d9be28c25e922
+SHA256: 8fe0f7f6447882d717cf71c424a55c47f9103c4788d01b57584d25c8a2ccc9bf
 Section: Tweaks
 Description: DazzCrack!
 Author: fries
@@ -347,16 +347,16 @@ Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
 Package: picsart
-Version: 1.0.2
+Version: 1.3.0
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/picsart_1.0.2_iphoneos-arm64.deb
-Size: 30894
-MD5sum: ea162ca79c9e2f6abacf29d4823e07d3
-SHA1: 6899515934c5515ac71fb57cb8178006ee05e675
-SHA256: 6b6260fd2bc01b4e552b7838964d46503f46e2fa6c4ebaaa95d1f390dc787286
+Filename: ./debs/rootless/picsart_1.3.0_iphoneos-arm64.deb
+Size: 35806
+MD5sum: e39b2de3e1bb9dce38d5a67e81cc3d1b
+SHA1: 654a44dc110c2bbdd9e31bf63b61fe58da39bf06
+SHA256: 139fc5247f77358d625fabe56b359877adfcb635238194fc0b0717112b59d172
 Section: Tweaks
 Description: PicsArtCrack!
 Author: fries
@@ -454,16 +454,16 @@ Name: IOS Il2CppDumper
 Sileodepiction: https://mieing.github.io/JSON/Il2CppDumper.json
 
 Package: dazz
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64e
 Maintainer: fries
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/dazz_1.0.2_iphoneos-arm64e.deb
-Size: 16122
-MD5sum: 33b283b657244fdde82b1f13f4838613
-SHA1: 8436248de618d0f83e20c78e3dab654891f9ceec
-SHA256: 6799cd08eee34228d16161f8d9badb59befc85ac3dd41d37f985aa8c9e8e98d5
+Filename: ./debs/roothide/dazz_1.0.3_iphoneos-arm64e.deb
+Size: 15914
+MD5sum: dded0ac46edb10ff837c9530b1812713
+SHA1: 4d5d364e6a44fa8d20ea31db71a7fcc0a95019b6
+SHA256: 888f5d476e47d3315e68ca0f53bd8b5f304713a2de6b1ca6b167c2be09e10a58
 Section: RootHide
 Description: DazzCrack!
 Author: fries
@@ -527,16 +527,16 @@ Name: MDeb
 Sileodepiction: https://mieing.github.io/JSON/mdeb.json
 
 Package: picsart
-Version: 1.0.2
+Version: 1.3.0
 Architecture: iphoneos-arm64e
 Maintainer: fries
-Installed-Size: 232
+Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/picsart_1.0.2_iphoneos-arm64e.deb
-Size: 37620
-MD5sum: 46fbb698c27f52b2dac5f981b6bf0dcc
-SHA1: ea5631e5c8aa276958b1e3bff25f1ddd3d238b50
-SHA256: f1aeb96bee69867314299c61086a0f937ad9f437e8e5066b1393387b8d934a47
+Filename: ./debs/roothide/picsart_1.3.0_iphoneos-arm64e.deb
+Size: 35096
+MD5sum: 71d75579eab359f9274eadc340b905de
+SHA1: 06abf77aaa8e0c8a3104c5c23fa1c0a2fc91c3bb
+SHA256: 928ae9bcb42f355a91f02dd675e0d4c459d57f78d20e7ddc1d705d0f03abec4e
 Section: RootHide
 Description: PicsArtCrack!
 Author: fries
