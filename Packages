@@ -1,0 +1,54 @@
+Package: dazz
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/dazz_1.0.6_iphoneos-arm.deb
+Size: 15372
+MD5sum: 7988b872336636680daed87c975e6b5f
+SHA1: f72e9992cbd7b6a02f885f41427a1eb13a8e9410
+SHA256: 3e5992cc054fe84eb2ff4f0950dd2b72c1b698d491e7c97338773cda9e4bcfca
+Section: Tweaks
+Description: DazzCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/Dazz.png
+Name: DazzCrack
+Sileodepiction: https://mieing.github.io/JSON/Dazz.json
+
+Package: dazz
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/dazz_1.0.6_iphoneos-arm64.deb
+Size: 16032
+MD5sum: 740b00dc1f688bebe775498195af9c4c
+SHA1: 5b0a0886feefb655600c36202643f78e321726a4
+SHA256: c012b63616daff481d6c9c5083c205ac8e9aad43da2b5e3c54c1ecbbe25a9c2d
+Section: Tweaks
+Description: DazzCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/Dazz.png
+Name: DazzCrack
+Sileodepiction: https://mieing.github.io/JSON/Dazz.json
+
+Package: dazz
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/dazz_1.0.6_iphoneos-arm64e.deb
+Size: 15924
+MD5sum: 6fcb06f15d4ed6bb7bc57f951bf1823a
+SHA1: d0f17b4872273deefb42d6c57bbfdc1218f59694
+SHA256: b71ae799a8196afae74ef45c4a6288f25fde48aca2023df1b8fe7c0e44004658
+Section: RootHide
+Description: DazzCrack!
+Author: fries
+Icon: https://mieing.github.io/icon/Dazz.png
+Name: DazzCrack
+Sileodepiction: https://mieing.github.io/JSON/Dazz.json
+
