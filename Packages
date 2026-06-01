@@ -16,6 +16,24 @@ Icon: https://mieing.github.io/icon/Dazz.png
 Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
+Package: xiaoshutiao
+Version: 260601
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/xiaoshutiao_260601_iphoneos-arm.deb
+Size: 58102
+MD5sum: 2c5b4e95bf2825d3dad49af783657d13
+SHA1: b6724ab953e853041ce8c6474122e074c59dab77
+SHA256: 5c7b6b8926a5f660e6ba68e4cf04f66150563e409112071fbd1b7149e9a1b618
+Section: Tweaks
+Description: 小薯条
+Author: fries
+Icon: https://mieing.github.io/icon/CydiaIcon.png
+Name: 小薯条
+Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
+
 Package: dazz
 Version: 1.0.7
 Architecture: iphoneos-arm64
@@ -34,6 +52,24 @@ Icon: https://mieing.github.io/icon/Dazz.png
 Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
 
+Package: xiaoshutiao
+Version: 260601
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/rootless/xiaoshutiao_260601_iphoneos-arm64.deb
+Size: 58268
+MD5sum: 90f8bcba5dead23ddd3063c3cb3fd94d
+SHA1: 0ea08015bcda501e314d6be505763d9f1dd9b1ec
+SHA256: 287a34822bce60b99c57a41ebeb96d73a3d23d8e2d71d30ec4411a533b31a59b
+Section: Tweaks
+Description: 小薯条
+Author: fries
+Icon: https://mieing.github.io/icon/CydiaIcon.png
+Name: 小薯条
+Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
+
 Package: dazz
 Version: 1.0.7
 Architecture: iphoneos-arm64e
@@ -51,4 +87,22 @@ Author: fries
 Icon: https://mieing.github.io/icon/Dazz.png
 Name: DazzCrack
 Sileodepiction: https://mieing.github.io/JSON/Dazz.json
+
+Package: xiaoshutiao
+Version: 260601
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/roothide/xiaoshutiao_260601_iphoneos-arm64e.deb
+Size: 57468
+MD5sum: d296d7bb14530019a58a6750b08d7fbb
+SHA1: ccfaed07a48f718af4e05c711cb959c6a54e6191
+SHA256: e0f581941366925828182e3dcbddeea0069b31fd3fec22ef654a3ce4631a8235
+Section: RootHide
+Description: 小薯条
+Author: fries
+Icon: https://mieing.github.io/icon/CydiaIcon.png
+Name: 小薯条
+Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
 
