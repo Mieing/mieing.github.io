@@ -1,14 +1,14 @@
 Package: dazz
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: fries
-Installed-Size: 108
+Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/dazz_1.0.6_iphoneos-arm.deb
-Size: 15372
-MD5sum: 7988b872336636680daed87c975e6b5f
-SHA1: f72e9992cbd7b6a02f885f41427a1eb13a8e9410
-SHA256: 3e5992cc054fe84eb2ff4f0950dd2b72c1b698d491e7c97338773cda9e4bcfca
+Filename: ./debs/rootfull/dazz_1.0.7_iphoneos-arm.deb
+Size: 8944
+MD5sum: 7e53b4b8d75e6c40ec729194fbb84fe4
+SHA1: 422dc5fe65210bf16d8d700e6273c08fd1195cc5
+SHA256: 1d715c2ec6178b091a2765d2a81579a0f2672ef0aaf45d9bfb725e3aa91d38d1
 Section: Tweaks
 Description: DazzCrack!
 Author: fries
@@ -35,16 +35,16 @@ Name: 小薯条
 Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
 
 Package: dazz
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm64
 Maintainer: fries
-Installed-Size: 108
+Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/dazz_1.0.6_iphoneos-arm64.deb
-Size: 16032
-MD5sum: 740b00dc1f688bebe775498195af9c4c
-SHA1: 5b0a0886feefb655600c36202643f78e321726a4
-SHA256: c012b63616daff481d6c9c5083c205ac8e9aad43da2b5e3c54c1ecbbe25a9c2d
+Filename: ./debs/rootless/dazz_1.0.7_iphoneos-arm64.deb
+Size: 9022
+MD5sum: 27828c5376cc47cc1a7c8298fc4c9139
+SHA1: 9de946e52becb5a61dcc6d1dada6c575b6407756
+SHA256: bc03f080e915dea776b63cd3ef16d963e13638bacfb3ffdc114910963f49d5a6
 Section: Tweaks
 Description: DazzCrack!
 Author: fries
@@ -71,16 +71,16 @@ Name: 小薯条
 Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
 
 Package: dazz
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm64e
 Maintainer: fries
-Installed-Size: 108
+Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/dazz_1.0.6_iphoneos-arm64e.deb
-Size: 15924
-MD5sum: 6fcb06f15d4ed6bb7bc57f951bf1823a
-SHA1: d0f17b4872273deefb42d6c57bbfdc1218f59694
-SHA256: b71ae799a8196afae74ef45c4a6288f25fde48aca2023df1b8fe7c0e44004658
+Filename: ./debs/roothide/dazz_1.0.7_iphoneos-arm64e.deb
+Size: 8982
+MD5sum: 41a7538f1d20e67627f2aa7952b21aa8
+SHA1: fadc668f30dec1912c0c9f0509e873a540325e07
+SHA256: bf4cd20acff385b373d8c108d3484c30fbc3644965dd160416731531dcc75e17
 Section: RootHide
 Description: DazzCrack!
 Author: fries
