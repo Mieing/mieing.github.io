@@ -4,13 +4,14 @@ Architecture: iphoneos-arm
 Installed-Size: 904
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/com.ios.il2cppdumper_1.0.0_iphoneos-arm.deb
-Size: 179436
-MD5sum: 0dd83a34c22469edbd6f5a0129494a7b
-SHA1: 6aa1c0871b7c23b9f2c18644281fbc404a00191c
-SHA256: ba6220704a89bc002b4f5ae3a0a3a801811dcc6ec8270ddc9d0a8969a49f3332
+Size: 179714
+MD5sum: ceadaf5d3baea13f5d3c04531e4c36cc
+SHA1: 55246a8abc3a45bcc81713e949e3f73dda3954bd
+SHA256: 6ffa202a17720db796d5aeacd9c911d2c16e8a33316623d7f7e416aab30017b5
 Section: Tweaks
 Description: Dump il2cpp data at runtime on iOS
 Author: Batchh & tien0246
+Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: IOS Il2CppDumper
 
 Package: dazz
@@ -55,13 +56,14 @@ Architecture: iphoneos-arm64
 Installed-Size: 904
 Depends: mobilesubstrate
 Filename: ./debs/rootless/com.ios.il2cppdumper_1.0.0_iphoneos-arm64.deb
-Size: 179750
-MD5sum: d65eaa05a22d624f62604ac4fb808c0a
-SHA1: f2392024509c515731bfc220b00e2dbe90a91a6b
-SHA256: 26332dc60cedfd46ce2c76d6f3ffd16cbe2dc39d16afbba2b9c620502f86957f
+Size: 179746
+MD5sum: fb4540a2393176f9343f8af2e1730ddd
+SHA1: 7af75a4f66d7d9817a9508f3b09dfd01d120521d
+SHA256: c15a5b405ef53ed12d41c314daaae9633514a295b0d132fe665cd7d7f7d4f46a
 Section: Tweaks
 Description: Dump il2cpp data at runtime on iOS
 Author: Batchh & tien0246
+Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: IOS Il2CppDumper
 
 Package: dazz
@@ -106,13 +108,14 @@ Architecture: iphoneos-arm64e
 Installed-Size: 904
 Depends: mobilesubstrate
 Filename: ./debs/roothide/com.ios.il2cppdumper_1.0.0_iphoneos-arm64e.deb
-Size: 179480
-MD5sum: 9e3d4064387262c4df03c32da114f1f2
-SHA1: 5131203f35eda8725ab4861bdb556368c0930ee6
-SHA256: 0ebb6fe2406e93e43c2046f2a594971ced2b819dc0cf1332da1c2cd2204fd226
+Size: 179568
+MD5sum: c4ca7086e16027aa625026834123621a
+SHA1: 258063a4e18cba2bf63d4731c97e0572fc79aef1
+SHA256: 5c2a21f1817a1cf9f7465dcf7cf92776751d3a27793d67bba4ae16953beabc7a
 Section: RootHide
 Description: Dump il2cpp data at runtime on iOS
 Author: Batchh & tien0246
+Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: IOS Il2CppDumper
 
 Package: dazz
