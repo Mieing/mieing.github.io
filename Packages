@@ -1,3 +1,18 @@
+Package: com.ios.il2cppdumper
+Version: 1.0.0
+Architecture: iphoneos-arm
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.ios.il2cppdumper_1.0.0_iphoneos-arm.deb
+Size: 179436
+MD5sum: 0dd83a34c22469edbd6f5a0129494a7b
+SHA1: 6aa1c0871b7c23b9f2c18644281fbc404a00191c
+SHA256: ba6220704a89bc002b4f5ae3a0a3a801811dcc6ec8270ddc9d0a8969a49f3332
+Section: Tweaks
+Description: Dump il2cpp data at runtime on iOS
+Author: Batchh & tien0246
+Name: IOS Il2CppDumper
+
 Package: dazz
 Version: 1.0.7
 Architecture: iphoneos-arm
@@ -34,6 +49,21 @@ Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: 小薯条
 Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
 
+Package: com.ios.il2cppdumper
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.ios.il2cppdumper_1.0.0_iphoneos-arm64.deb
+Size: 179750
+MD5sum: d65eaa05a22d624f62604ac4fb808c0a
+SHA1: f2392024509c515731bfc220b00e2dbe90a91a6b
+SHA256: 26332dc60cedfd46ce2c76d6f3ffd16cbe2dc39d16afbba2b9c620502f86957f
+Section: Tweaks
+Description: Dump il2cpp data at runtime on iOS
+Author: Batchh & tien0246
+Name: IOS Il2CppDumper
+
 Package: dazz
 Version: 1.0.7
 Architecture: iphoneos-arm64
@@ -69,6 +99,21 @@ Author: fries
 Icon: https://mieing.github.io/icon/CydiaIcon.png
 Name: 小薯条
 Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
+
+Package: com.ios.il2cppdumper
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.ios.il2cppdumper_1.0.0_iphoneos-arm64e.deb
+Size: 179480
+MD5sum: 9e3d4064387262c4df03c32da114f1f2
+SHA1: 5131203f35eda8725ab4861bdb556368c0930ee6
+SHA256: 0ebb6fe2406e93e43c2046f2a594971ced2b819dc0cf1332da1c2cd2204fd226
+Section: RootHide
+Description: Dump il2cpp data at runtime on iOS
+Author: Batchh & tien0246
+Name: IOS Il2CppDumper
 
 Package: dazz
 Version: 1.0.7
